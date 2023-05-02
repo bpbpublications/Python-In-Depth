@@ -1,0 +1,239 @@
+Country;Code;City
+Afghanistan;af;Kabul
+South Africa;za;Pretoria
+Albania;al;Tirana
+Algeria;dz;Algiers
+Germany;de;Berlin
+Andorra;ad;Andorra la Vella
+Angola;ao;Luanda
+Anguilla;ai;The Valley
+Antigua and Barbuda;ag;Saint John's
+Saudi Arabia;sa;Riyadh
+Argentina;ar;Buenos Aires
+Armenia;am;Yerevan
+Aruba;aw;Oranjestad
+Australia;au;Canberra
+Austria;at;Vienna
+Azerbaijan;az;Baku
+Bahamas;bs;Nassau
+Bahrain;bh;Manama
+Bangladesh;bd;Dhaka
+Barbados;bb;Bridgetown
+Belgium;be;Brussels
+Belize;bz;Belmopan
+Benin;bj;Porto-Novo
+Bermuda;bm;Hamilton
+Bhutan;bt;Thimphu
+Belarus;by;Minsk
+Myanmar;mm;Naypyidaw
+Bolivia;bo;Sucre
+Bosnia and Herzegovina;ba;Sarajevo
+Botswana;bw;Gaborone
+Brazil;br;Brasília
+Brazil;br;Brasília
+Brunei Darussalam;bn;Bandar Seri Begawan
+Bulgaria;bg;Sofia
+Burkina Faso;bf;Ouagadougou
+Burundi;bi;Bujumbura
+Cambodia;kh;Phnom Penh
+Cameroon;cm;Yaoundé
+Canada;ca;Ottawa
+Cabo Verde;cv;Praia
+Central African Republic;cf;Bangui
+Chile;cl;Santiago
+China;cn;Beijing
+Cyprus;cy;Nicosia
+Colombia;co;Bogotá
+Comoros;km;Moroni
+Korea (Democratic People's Republic of);kp;Pyongyang
+Korea (Republic of);kr;Seoul
+Costa Rica;cr;San José
+Côte d'Ivoire;ci;Yamoussoukro
+Croatia;hr;Zagreb
+Cuba;cu;Havana
+Curaçao;cw;Willemstad
+Denmark;dk;Copenhagen
+Djibouti;dj;Djibouti
+Dominica;dm;Roseau
+Egypt;eg;Cairo
+United Arab Emirates;ae;Abu Dhabi
+United Arab Emirates;ae;Abu Dhabi
+United Arab Emirates;ae;Abu Dhabi
+Ecuador;ec;Quito
+Eritrea;er;Asmara
+Spain;es;Madrid
+Estonia;ee;Tallinn
+United States of America;us;Washington D.C.
+United States of America;us;Washington D.C.
+Ethiopia;et;Addis Ababa
+Fiji;fj;Suva
+Finland;fi;Helsinki
+France;fr;Paris
+France;fr;Paris
+Gabon;ga;Libreville
+Gambia;gm;Banjul
+Georgia;ge;Tbilisi
+South Georgia;gs;King Edward Point
+Ghana;gh;Accra
+Gibraltar;gi;Gibraltar
+Greece;gr;Athens
+Grenada;gd;St. George's
+Guadeloupe;gp;Basse-Terre
+Guatemala;gt;Guatemala City
+Guinea;gn;Conakry
+Equatorial Guinea;gq;Malabo
+Guinea-Bissau;gw;Bissau
+Guyana;gy;Georgetown
+French Guiana;gf;Cayenne
+Haiti;ht;Port-au-Prince
+Honduras;hn;Tegucigalpa
+Hong Kong;hk;City of Victoria
+Hungary;hu;Budapest
+Norfolk Island;nf;Kingston
+Åland Islands;ax;Mariehamn
+Cayman Islands;ky;George Town
+Marshall Islands;mh;Majuro
+India;in;New Delhi
+Indonesia;id;Jakarta
+Iraq;iq;Baghdad
+Iran (Islamic Republic of);ir;Tehran
+Ireland;ie;Dublin
+Iceland;is;Reykjavik
+Israel;il;Jerusalem
+Israel;il;Jerusalem
+Italy;it;Rome
+Jamaica;jm;Kingston
+Jamaica;jm;Kingston
+Japan;jp;Tokyo
+Jersey;je;Saint Helier
+Jordan;jo;Amman
+Kazakhstan;kz;Astana
+Kenya;ke;Nairobi
+Kyrgyzstan;kg;Bishkek
+Kuwait;kw;Kuwait City
+Kuwait;kw;Kuwait City
+Réunion;re;Saint-Denis
+Lao People's Democratic Republic;la;Vientiane
+Lesotho;ls;Maseru
+Latvia;lv;Riga
+Lebanon;lb;Beirut
+Liberia;lr;Monrovia
+Libya;ly;Tripoli
+Liechtenstein;li;Vaduz
+Lithuania;lt;Vilnius
+Luxembourg;lu;Luxembourg
+Macao;mo; Macau
+Madagascar;mg;Antananarivo
+Malaysia;my;Kuala Lumpur
+Malawi;mw;Lilongwe
+Maldives;mv;Malé
+Mali;ml;Bamako
+Falkland Islands (Malvinas);fk;Stanley
+Malta;mt;Valletta
+Morocco;ma;Rabat
+Martinique;mq;Fort-de-France
+Mauritius Island;mu;Port Louis
+Mauritius;mu;Port Louis
+Mauritania;mr;Nouakchott
+Mexico;mx;Mexico City
+Micronesia (Federated States of);fm;Palikir
+Moldova (Republic of);md;Chisinau
+Monaco;mc;Monaco
+Mongolia;mn;Ulan Bator
+Montenegro;me;Podgorica
+Montserrat;ms;Plymouth
+Mozambique;mz;Maputo
+Namibia;na;Windhoek
+Nauru;nr;Yaren
+Nepal;np;Kathmandu
+Nicaragua;ni;Managua
+Niger;ne;Niamey
+Nigeria;ng;Abuja
+Nigeria;ng;Abuja
+Norway;no;Oslo
+New Caledonia;nc;Nouméa
+New Zealand;nz;Wellington
+Oman;om;Muscat
+Uganda;ug;Kampala
+Uzbekistan;uz;Tashkent
+Pakistan;pk;Islamabad
+Palau;pw;Ngerulmud
+Palestine State of;ps;East Jerusalem
+Panama;pa;Panama City
+Papua New Guinea;pg;Port Moresby
+Paraguay;py;Asunción
+Netherlands;nl;Amsterdam
+Netherlands;nl;Amsterdam
+Bonaire Sint Eustatius and Saba;bq;Oranjestad
+Peru;pe;Lima
+Philippines;ph;Manila
+Poland;pl;Warsaw
+French Polynesia;pf;Papeetē
+Puerto Rico;pr;San Juan
+Portugal;pt;Lisbon
+Qatar;qa;Doha
+Western Sahara;eh;El Aaiún
+Macedonia (the former Yugoslav Republic of);mk;Skopje
+Congo (Democratic Republic of the);cd;Kinshasa
+Congo (Democratic Republic of the);cd;Kinshasa
+Dominican Republic;do;Santo Domingo
+Dominican Republic;do;Santo Domingo
+Congo;cg;Brazzaville
+Congo;cg;Brazzaville
+Czechia;cz;Prague
+Romania;ro;Bucharest
+United Kingdom of Great Britain and Northern Ireland;gb;London
+Russian Federation;ru;Moscow
+Rwanda;rw;Kigali
+Saint Barthélemy;bl;Gustavia
+Saint Kitts and Nevis;kn;Basseterre
+San Marino;sm;City of San Marino
+Sint Maarten (Dutch part);sx;Philipsburg
+Saint Martin (French part);mf;Marigot
+Saint Pierre and Miquelon;pm;Saint-Pierre
+Saint Vincent and the Grenadines;vc;Kingstown
+Saint Lucia;lc;Castries
+Solomon Islands;sb;Honiara
+El Salvador;sv;San Salvador
+Samoa;ws;Apia
+American Samoa;as;Pago Pago
+Sao Tome and Principe;st;São Tomé
+Senegal;sn;Dakar
+Serbia;rs;Belgrade
+Seychelles;sc;Victoria
+Seychelles;sc;Victoria
+Sierra Leone;sl;Freetown
+Singapore;sg;Singapore
+Slovakia;sk;Bratislava
+Slovenia;si;Ljubljana
+Somalia;so;Mogadishu
+Sudan;sd;Khartoum
+South Sudan;ss;Juba
+Sri Lanka;lk;Colombo
+Sweden;se;Stockholm
+Switzerland;ch;Bern
+Suriname;sr;Paramaribo
+Swaziland;sz;Lobamba
+Syrian Arab Republic;sy;Damascus
+Tajikistan;tj;Dushanbe
+Taiwan Province of China;tw;Taipei
+Tanzania ;tz;Dodoma
+Chad;td;N'Djamena
+Thailand;th;Bangkok
+Timor-Leste;tl;Dili
+Togo;tg;Lomé
+Trinidad and Tobago;tt;Port of Spain
+Tunisia;tn;Tunis
+Turkmenistan;tm;Ashgabat
+Turkey;tr;Ankara
+Tuvalu;tv;Funafuti
+Ukraine;ua;Kyiv
+Uruguay;uy;Montevideo
+Vanuatu;vu;Port Vila
+Venezuela (Bolivarian Republic of);ve;Caracas
+Viet Nam;vn;Hanoi
+Viet Nam;vn;Hanoi
+Wallis and Futuna;wf;Mata-Utu
+Yemen;ye;Sana'a
+Zambia;zm;Lusaka
+Zimbabwe;zw;Harare
